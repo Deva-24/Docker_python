@@ -1,1 +1,1 @@
-echo "qrcode[pil]" > requirements.txt
+qrcode[pil]
